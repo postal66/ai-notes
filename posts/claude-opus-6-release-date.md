@@ -4,7 +4,6 @@ title: Claude Opus 6 Release Date: What Is Confirmed and How Developers Should P
 ---
 # Claude Opus 6 Release Date: What Is Confirmed and How Developers Should Prepare
 
-# Claude Opus 6 Release Date: What Is Confirmed and How Developers Should Prepare
 
 *An evidence\-led preview of Anthropic's next possible Opus model, based on the current Claude catalog and the published Opus 5 baseline\.*
 
