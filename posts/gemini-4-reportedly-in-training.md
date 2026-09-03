@@ -2,7 +2,7 @@
 ---
 title: Gemini 4 Is Reportedly in Training: What We Know and What Remains Unknown
 ---
-# Gemini 4 Is Reportedly in Training: What We Know and What Remains Unknown
+
 
 *A fact\-checked guide to the reported training signal, the missing specifications, and the tests that will matter if Google releases Gemini 4\.*
 
