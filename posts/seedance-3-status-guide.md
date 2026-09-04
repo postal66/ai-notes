@@ -1,28 +1,13 @@
-<!-- social-ops-fingerprint:b42827add4c1a1cd8a4e960d768259dea5f6614044e4e8af10ac553327821b66 -->
+<!-- growth-fingerprint:086523944b8c03bee662c75d2cd3e57e8c512af4cd76dce6b121249186efaeb7 -->
 ---
-title: （20260903）Seedance 3
+title: Seedance 3: Status, Availability, and How to Prepare for the Video Model Update
 ---
-# （20260903）Seedance 3
 
-## Product name
-
-Seedance 3 Status Guide by CometAPI
-
-## Tagline
-
-Confirmed facts, open questions, and a test plan
-
-## Short description
-
-An evidence\-labeled Seedance 3 guide that separates ByteDance Seed’s confirmed releases from expected improvements, unknown API details, and a practical Seedance 2\.5 evaluation baseline\.
-
-## Maker post
-
-Hey Product Hunt 👋
+# Seedance 3: Status, Availability, and How to Prepare for the Video Model Update
 
 We’re the team behind CometAPI\.
 
-Here’s the short answer: **as of September 3, 2026, ByteDance Seed has not officially announced a model called Seedance 3\.**
+Short answer: **as of September 3, 2026, ByteDance Seed has not officially announced a model called Seedance 3\.**
 
 We created a **Seedance 3 status and readiness guide**—not a model launch, API announcement, or release\-date prediction\.
 
@@ -33,11 +18,8 @@ Pre\-release coverage can easily turn an expected product name into an official 
 We wanted to give developers and creative teams a clearer reference that separates:
 
 - What ByteDance Seed has officially confirmed
-
 - What can reasonably be inferred from the Seedance roadmap
-
 - What remains unknown
-
 - What teams can evaluate today
 
 ### What is confirmed today
@@ -47,15 +29,10 @@ ByteDance Seed’s public model directory currently identifies **Seedance 2\.5**
 According to ByteDance Seed’s Seedance 2\.5 launch materials, the released model supports:
 
 - Audio\-video clips of up to 30 seconds per generation
-
 - Multiple rounds of video extension
-
 - Up to 30 image, 10 video, and 10 audio references
-
 - Timestamp\-guided changes
-
 - Camera, green\-screen, and reference\-based editing
-
 - Unified audio\-video generation
 
 These are provider\-stated Seedance 2\.5 capabilities\. They are not Seedance 3 specifications or independent benchmark results\.
@@ -67,13 +44,9 @@ The Seedance family has progressed from multi\-shot video generation to native a
 Based on that direction, useful evaluation priorities for a future generation would include:
 
 - More stable characters, products, and voices across longer sequences
-
 - Better physics and multi\-subject interaction
-
 - More localized edits that preserve approved content
-
 - Stronger handling of image, video, audio, and layout references
-
 - More repeatable camera and scene control
 
 These are workflow expectations inferred from the existing roadmap—not announced Seedance 3 features\.
@@ -83,21 +56,13 @@ These are workflow expectations inferred from the existing roadmap—not announc
 There is currently no verified Seedance 3:
 
 - Final product name or release date
-
 - Model card or technical report
-
 - API model ID or request schema
-
 - Maximum duration, resolution, or frame rate
-
 - Reference\-input limit
-
 - Benchmark result
-
 - Price or rate limit
-
 - Availability region
-
 - Commercial\-use or safety policy
 
 We would not configure production traffic around `seedance-3` or any other guessed model identifier\.
@@ -109,19 +74,12 @@ Teams can create a reproducible baseline using the currently available `seedance
 We recommend evaluating complete sequences rather than selected frames and tracking:
 
 - Prompt and timeline adherence
-
 - Character, product, and voice consistency
-
 - Physical plausibility
-
 - Audio\-video synchronization
-
 - Preservation outside the requested edit
-
 - First\-pass acceptance rate
-
 - Latency, failures, and retries
-
 - Cost per accepted second
 
 Keep the model ID, prompt, reference assets, settings, output, and test date\. If ByteDance officially releases a successor, the same evaluation set can show whether it improves the workflow that matters to your team\.
