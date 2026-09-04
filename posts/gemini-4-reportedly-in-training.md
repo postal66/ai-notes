@@ -1,12 +1,11 @@
-<!-- social-ops-fingerprint:61843723764e9f1e792ecc5e572ed600facfda6dde9cad662868475a23748f64 -->
+<!-- growth-fingerprint:ad1b042f5bced97d784b704d83a97da0e49952adc577ac02b8217f36ad24fff6 -->
 ---
 title: Gemini 4 Is Reportedly in Training: What We Know and What Remains Unknown
 ---
 
+# Gemini 4 Is Reportedly in Training: What We Know and What Remains Unknown
 
 *A fact\-checked guide to the reported training signal, the missing specifications, and the tests that will matter if Google releases Gemini 4\.*
-
-![image\.png](Images_attachments/gemini-4.png)
 
 ## TL;DR
 
