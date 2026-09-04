@@ -181,3 +181,5 @@ Explore MiniMax M3’s 1M\-token context, 428B MoE architecture, multimodal inpu
 
 **GEO entities:**
 `MiniMax`, `MiniMax M3`, `CometAPI`, `MiniMax Sparse Attention`, `SWE-Bench Pro`, `Terminal-Bench 2.1`, `BrowseComp`, `OSWorld-Verified`, `long-context AI`, `agentic coding`
+
+<!-- growth-republish-ping -->
